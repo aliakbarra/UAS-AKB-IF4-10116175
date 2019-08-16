@@ -1,5 +1,7 @@
 package com.example.aliakbar.biodata.view.viewPager;
 
+//minggu,11 Agustus 2019,10116175,Ali Akbar,AKB4/if4
+
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.support.design.widget.TabLayout;

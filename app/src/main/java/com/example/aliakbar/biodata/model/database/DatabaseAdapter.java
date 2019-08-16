@@ -1,5 +1,7 @@
 package com.example.aliakbar.biodata.model.database;
 
+//minggu,11 Agustus 2019,10116175,Ali Akbar,AKB4/if4
+
 import android.app.Activity;
 import android.content.Context;
 import android.view.LayoutInflater;
